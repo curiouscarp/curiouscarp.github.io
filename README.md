@@ -1,1 +1,1 @@
-##Check back for updates
+##Discussion topics to include macroeconomics, trading, fitness, music, and navigating life
