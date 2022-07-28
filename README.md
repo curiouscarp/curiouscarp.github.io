@@ -1,1 +1,1 @@
-##Discussion topics to include macroeconomics, trading, fitness, music, and navigating life
+##Discussion topics to include economic theory, global marco, financial mathematics, fitness, music, and navigating life
