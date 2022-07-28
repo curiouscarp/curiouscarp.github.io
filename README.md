@@ -1,1 +1,1 @@
-## Discussion topics to include economic theory, global marco investing, computational finance, and fitness
+## Discussion topics to include economic theory, computational finance, global marco investing, and fitness
