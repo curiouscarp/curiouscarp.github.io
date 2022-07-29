@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: Contemplations
 description: Keep an eye out for updates
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
+
