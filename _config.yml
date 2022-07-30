@@ -5,14 +5,12 @@ author: "Zach Gruber"
 
 minima:
   skin: dark
+  social_links:
+    twitter: realzachgruber
+    instagram: zach.gruber
   
 baseurl: ""
 url: "https://zach-gruber.com"
-
-social_links:
-  twitter: realzachgruber
-  instagram: zach.gruber
-
 
 header_pages:
   - _pages/frontpage.md
