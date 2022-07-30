@@ -19,4 +19,4 @@ But also
 Images
 
 ![Dogs](/assets/images/dogsplayingpoker.png)
-And so on...
+
