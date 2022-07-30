@@ -4,10 +4,10 @@ layout: page
 title: About me
 ---
 
-#👋 Hi there,
-#I'm Zach Gruber.
+# **👋 Hi there,**
+# **I'm Zach Gruber.**
 
-##Thanks for stopping by.
+## Thanks for stopping by.
 
 I am an undergraduate at Vanderbilt University studying economics and computer science with a minor in applied math. 
 
