@@ -1,6 +1,6 @@
 ---
-title: "Tutorial I: my first post"
-date: 2020-03-18
+title: "Test post"
+date: 2022-07-30
 layout: post
 ---
 
@@ -18,5 +18,5 @@ But also
 
 Images
 
-![Dogs](/assets/images/dogs.png)
+![Dogs](/assets/images/dogsplayingpoker.png)
 And so on...
