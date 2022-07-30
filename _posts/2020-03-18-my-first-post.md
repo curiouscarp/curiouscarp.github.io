@@ -18,6 +18,5 @@ But also
 
 Images
 
-![a gif!](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
+![Dogs](/assets/images/dogs.png)
 And so on...
