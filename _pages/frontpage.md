@@ -11,8 +11,6 @@ Check out the excellent [`minima` theme][minima] documentation for further detai
 
 Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
 
-<img src="./assets/imgs/screenshot.png" width="400px">
-
 For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter). Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from this [contact form](https://www.jorgesanz.net/contact/).
 
 Have a great day!!
