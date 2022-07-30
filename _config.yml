@@ -1,8 +1,18 @@
 remote_theme: jekyll/minima
 title: Contemplations
 description: Keep an eye out for updates
+atuhor: "Zach Gruber"
 
 minima:
   skin: dark
+  
+twitter_username: realzachgruber
+instagram_username: zach.gruber
 
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
 
+include:
+    - _pages
