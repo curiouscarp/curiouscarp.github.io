@@ -9,8 +9,9 @@ minima:
 baseurl: ""
 url: "https://zach-gruber.com"
 
-twitter_username: realzachgruber
-instagram_username: zach.gruber
+social_links:
+  twitter: realzachgruber
+  instagram: zach.gruber
 
 
 header_pages:
