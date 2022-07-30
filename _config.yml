@@ -1,4 +1,8 @@
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 title: Contemplations
 description: Keep an eye out for updates
+
+minima:
+  skin: dark
+
 
