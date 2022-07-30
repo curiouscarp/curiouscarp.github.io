@@ -10,6 +10,8 @@ baseurl: ""
 url: "https://zach-gruber.com"
 
 twitter_username: realzachgruber
+instagram_username: zach.gruber
+
 
 header_pages:
   - _pages/frontpage.md
