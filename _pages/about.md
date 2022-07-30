@@ -4,7 +4,8 @@ layout: page
 title: About me
 ---
 
-# **👋 Hi there,**\**I'm Zach Gruber.**
+# **👋 Hi there,**\
+**I'm Zach Gruber.**
 
 ## Thanks for stopping by.
 
