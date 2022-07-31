@@ -3,12 +3,13 @@ title: Contemplations
 description: "This world is but a canvas to our imagination"
 author: "Zach Gruber"
 
+google_analytics: UA-236053491-1
+
 minima:
   skin: dark
   social_links:
     twitter: realzachgruber
     instagram: zach.gruber
-  google_analytics: UA-236053491-1
 
 baseurl: ""
 url: "https://zach-gruber.com"
