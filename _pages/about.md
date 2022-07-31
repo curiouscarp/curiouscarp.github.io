@@ -8,4 +8,4 @@ title: About me
 
 I am an undergraduate at Vanderbilt University studying economics and computer science with a minor in applied math. 
 
-This website is designed to be a contemplative journal to share some of my latest thoughts. My current plan is to post biweekly starting September on topics I find fascinating including selections from macroeconomics, computer science, art, food, and fitness, among others. Stay tuned :)
+I designed this GitHub Pages site to be a contemplative journal to share some of my thoughts. My current plan is to post biweekly starting September on topics I find fascinating from a colorful range of domains including (but not limited to): macroeconomics, computer science to art, food, and fitness. Stay tuned :)
