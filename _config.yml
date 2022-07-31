@@ -8,8 +8,7 @@ minima:
   social_links:
     twitter: realzachgruber
     instagram: zach.gruber
-    
-google_analytics: UA-236053491-1
+  google_analytics: UA-236053491-1
 
 baseurl: ""
 url: "https://zach-gruber.com"
