@@ -8,7 +8,7 @@ google_analytics: G-DRSQT5BM1K
 minima:
   skin: dark
   social_links:
-    - { platform: twitter, user_url: "https://twiitter.com/realzachgruber"}
+    - { platform: twitter, user_url: "https://twitter.com/realzachgruber"}
 
 baseurl: ""
 url: "https://zach-gruber.com"
