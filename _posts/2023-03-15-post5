@@ -1,0 +1,61 @@
+---
+title: "Silicon Valley Bank and More"
+date: 2023-03-15
+layout: post
+---
+“Only when the tide goes out do you discover who has been swimming naked” – Warren Buffett
+
+What happened: 
+
+What started as poor risk management from duration mismatching has led to a global scare. SVB’s greed-driven mentality will have massive consequences for the banking industry and taxpayers. The government has engineered moral hazard, uprooting a cornerstone of capitalism. How can banks be allowed to take on high levels of risk with few consequences? Paul Krugman has an interesting piece in the New York Times on this (1).
+
+Enjoying the easy money of the pandemic, SVB’s lack of interest rate hedging to increase profitability led to massive losses on the sale of long-dated assets (see S&L crisis). It did not take the savvy depositors much time to realize the apparent asset-liability mismatch. Regulators will have to deal with how a group can run a bank in an industry with such volatile deposit flows and load up with long dated investments.
+
+The decline in deposits from a contracting money supply paired with venture debt and long-dated treasuries/mortgage issues was quite the cocktail. In Q4 2022, SVB’s debt portfolio took massive hits due to a decline in successful venture exits from monetary tightening. Like a snowball down a hill, the internet (Silicon Valley’s brainchild) accelerated the self-reinforcing characteristics of the classic run. A second-degree consequence has been the massive capital outflow from regional banks to systemically important financial institutions with stronger capital requirements.
+
+*Money supply:*
+
+![MoneySupply](/assets/images/M2.png)
+
+*Bank deposits:*
+
+![Bankdeposits](/assets/images/Bankdeposits.png)
+
+During a bank run, the game theory optimal play is to pull out funds, so one cannot fault individual depositors (2). The government played a role in weakening regulatory standards for banks under $250 billion in 2018. Adding to the irony is Greg Becker, who served as CEO of the bank and was a director at the Fed in San Francisco. How his insights while at the FRBSF did not lead to better risk management is somewhat perplexing. Even market participants on SeekingAlpha.com identified the significant risks associated with SVB a few months ago.
+
+Looking ahead: 
+
+Fears of contagion have spread worldwide. As a student of the markets, I have been intrigued by historical moves in several asset classes as volatility has spiked. Looking at Eurodollar futures, a 3-month LIBOR derivative, the implied upward move reflects a massive, expected repricing of the yield curve (earlier cuts).
+
+*Eurodollar futures:*
+![Eurodollar](/assets/images/Eurodollar.png)
+
+*The two-year treasury yield plunged from SVB's fallout - 8+ sigma move?*
+*temporary "unwinding" of the yield curve:*
+![2yr](/assets/images/2yr.png)
+
+*Interbank credit spread:*
+![fraois](/assets/images/fraois.png)
+
+It gets harder to meet liquidity needs as the cost of borrowing goes up. The spread reflects shakiness in the banking sector, calling on the need for fewer rate hikes (3). The Federal Home Loan Banks system also shows desperation for liquidity. An article from Bloomberg details the sale of short-term notes to the likes of $90 billion to increase the size of their war chest (4). 
+
+*Credit Default Swap Market:*
+![cds](/assets/images/cds.png)
+
+CDSs allow investors to offset risk as the insuring party guarantees a payout in the case of a default. The Credit Suisse events came after Saudi Arabia opted not to “boost its stake in the lender for regulatory reasons,” compounding existing fears from the fallout of SVB (5). I find this play intriguing given that Xi Jinping recently called for settling oil and gas trades with Saudi Arabia in the Yuan (6). 
+
+What's next: 
+Inflation numbers that came out Tuesday are underwhelming at best. They are also backward-looking. The Fed is now between a rock and a hard place; possible fallout from higher rates to tame inflation clearly come with a cost. Reducing QT too early can also bring the inflation genie out of the bottle further down the road, so there’s no clear solution. Perhaps combining necessary backstops with slowed hikes (e.g., a pause or 25 basis points) could be helpful to maintain credibility. Who knows.
+
+While banking crises are deflationary in nature, the government’s response is essentially a form of QE. The Swiss National Bank has also made clear it will take necessary steps to bail out Credit Suisse. That said, banks sitting on hundreds of billions of unrealized losses reflect the market risk from interest rate exposure. This has not turned into a credit event yet, which is good. However, the ripple effects are certainly worth exploring to understand potential outcomes. Over the next few weeks, I would like to learn more about the role of the dollar in global trade, commercial real estate, and Argentinian debt markets.
+
+
+References: 
+1.	https://www.nytimes.com/2023/03/14/opinion/silicon-valley-bank-bailout.html
+2.	https://blog.iese.edu/xvives/files/2011/09/69.pdf
+3.	https://www.yahoo.com/entertainment/bitcoin-nears-25k-interbank-funding-085619062.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADuOIEtDi3LV_-K0fWfNJVEu69iObkJlGgEiuE3ZDjmM6PFS8UR9xdZfH-MJfw6HoQqQhAiczDISosFEk5kUgBPu46pFZb5IoCWEQWyZlLzMqkVyo_RQ4ptdfiHbyW7xR73ZhtnV8cx1ObJhRamMIedAvpXqVGfHg1C0NaHcjNmA
+4.	https://www.bloomberg.com/news/articles/2023-03-13/federal-home-loan-banks-to-raise-64-billion-in-notes-offering?leadSource=uverify%20wall
+5.	https://www.bloomberg.com/news/articles/2023-03-15/credit-suisse-cds-reach-crisis-levels-as-banks-rush-to-buy-protection?leadSource=uverify%20wall
+6.	https://www.reuters.com/world/saudi-arabia-gathers-chinas-xi-with-arab-leaders-new-era-ties-2022-12-09/
+
+
