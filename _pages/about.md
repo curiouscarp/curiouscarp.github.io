@@ -1,7 +1,7 @@
 ---
 permalink: /about
 layout: page
-title: About me
+title: About Me
 ---
 
 # **👋 Hi there.**<br/>**I'm Zach Gruber.**
