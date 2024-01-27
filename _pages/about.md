@@ -10,4 +10,8 @@ Thanks for stopping by!
 
 I started this blog to share thoughts on things I find interesting.
 
+<br><br>
+
+![Rome.png](/assets/images/Rome.png)
+
 
