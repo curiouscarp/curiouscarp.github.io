@@ -9,6 +9,7 @@ If earnings are released at t+1 (morning or evening), I look at the percentage c
 I’ve also added a time variable.
 Quarterly changes in price could be useful to consider as well.
 Enterprise value (EV) is also considered a more holistic view than market cap (MC).
+Such an approach would likely require some smoothing given the high variability in debt and cash. 
 
 Right now, I use a sliding window to calculate annualized standard deviation for the volatility adjustment. 
 I also use the same sliding window to generate covariance and variance for beta. 
