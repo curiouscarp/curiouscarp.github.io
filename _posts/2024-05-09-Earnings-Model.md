@@ -8,6 +8,7 @@ I am working on a model to predict vol adjusted price changes using data before 
 If earnings are released at t+1 (morning or evening), I look at the percentage change in price using the close at time t, and the open at time t+2. 
 I’ve also added a time variable.
 Quarterly changes in price could be useful to consider as well.
+Enterprise value (EV) is also considered a more holistic view than market cap (MC).
 
 Right now, I use a sliding window to calculate annualized standard deviation for the volatility adjustment. 
 I also use the same sliding window to generate covariance and variance for beta. 
