@@ -19,6 +19,7 @@ To make the model better, one might be able to predict sharpe ratios as a gauge 
 That said, the dividends add complexity, since I wouldn't just be looking at stock returns. 
 There would have to be a total return and the adjustments to the price series data are non trivial.
 I am looking at additional Python libraries to tackle the problem.
+Wall Street is almost comically oblivious.
 
 Figure 1: Features
 
