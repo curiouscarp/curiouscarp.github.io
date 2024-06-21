@@ -22,7 +22,7 @@ I am looking at additional Python libraries to tackle the problem.
 Wall Street is almost comically oblivious.
 As per friends or other readers, I would like to make everyone as rich as possible.
 
-Figure 1: Features
+Figure 1: Sample Features
 
 ![features](/assets/images/featuresNew.png)
 
