@@ -12,3 +12,26 @@ jobs:
           token: ${{ secrets.DEPLOYMENTS }}
           environment: github-pages
           onlyRemoveDeployments: true
+
+  del_runs:
+      runs-on: ubuntu-latest
+      permissions:
+        actions: write
+        contents: read
+      steps:
+        - name: Delete workflow runs
+          uses: Mattraks/delete-workflow-runs@v2
+          with:
+            token: ${{ secrets.DEPLOYMENTS }}
+            repository: ${{ github.repository }}
+            retain_days: ${{ 1 }}
+            keep_minimum_runs: ${{ 1 }}
+            delete_workflow_pattern: ${{ github.event.inputs.delete_workflow_pattern }}
+            delete_workflow_by_state_pattern: ${{ github.event.inputs.delete_workflow_by_state_pattern }}
+            delete_run_by_conclusion_pattern: >-
+              ${{
+                startsWith(github.event.inputs.delete_run_by_conclusion_pattern, 'Unsuccessful:')
+                && 'action_required,cancelled,failure,skipped'
+                || github.event.inputs.delete_run_by_conclusion_pattern
+              }}
+            dry_run: ${{ github.event.inputs.dry_run }}
