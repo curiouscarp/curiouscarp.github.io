@@ -79,12 +79,6 @@ During Covid we saw a large discrepancy between on the run and off the treasurie
 Cash bonds underperformed and the rapid unwind to repay loans contributed to volatility.
 The Fed stepped in to normalize conditions by provding emergency funding. 
 
-A recent article from the Federal Reserve notes that CFTC short treasury futures might not provide adequate insight into basis trading activity (7). 
-They instead consider SEC forms and FINRA trace data while noting the drawbacks of each method. 
-In particular, the "cash-future basis trade returned to prominence in 2023". 
-However leveraged fund futures positions alone likely "overestimate basis trade volume". 
-By mid-January 2024, they find the "TRACE proxy suggests basis trade volumes of approximately $317 billion". 
-
 
 References: 
 
@@ -99,6 +93,4 @@ References:
 5.	https://www.foxbusiness.com/markets/stocks-could-fall-30-us-heads-painful-recession-analyst-warns
 
 6.	https://www.bloomberg.com/news/articles/2024-06-25/treasury-basis-trade-stays-in-vogue-unless-volatility-erupts?embedded-checkout=true
-
-7.	https://www.federalreserve.gov/econres/notes/feds-notes/quantifying-treasury-cash-futures-basis-trades-20240308.html
    
