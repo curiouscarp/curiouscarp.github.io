@@ -20,7 +20,7 @@ That said, the dividends add complexity, since I wouldn't just be looking at sto
 There would have to be a total return and the adjustments to the price series data are non trivial.
 I am looking at additional Python libraries to tackle the problem.
 Wall Street is almost comically oblivious.
-As per friends or other readers, I would like to make everyone as rich as possible.
+As per friends or other readers, I would like to see everyone as rich as possible.
 
 Figure 1: Sample Features
 
