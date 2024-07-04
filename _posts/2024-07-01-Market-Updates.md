@@ -53,7 +53,7 @@ While the number is higher than the lows of January (200,000) we are still nowhe
 For example, during April 2020 the figure was a whopping 5.3 million. 
 
 News sentiment for the U.S. economy has also soured in recent months. 
-For example, two a quick search on U.S. recession yields many articles and videos about the upcoming slowdown. 
+For example, a quick search on U.S. recession yields many articles and videos about the upcoming slowdown. 
 Peter Berezin from BCA research notes that the reason the U.S. avoided a recession in 2022 and 2023 was due to the steepness of the Phillips curve. 
 Thus, we saw an “immaculate disinflation” (5). 
 However, he notes that the economy could fall into recession in late 2024 or early 2025. 
